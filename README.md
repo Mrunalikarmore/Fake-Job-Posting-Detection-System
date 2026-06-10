@@ -249,58 +249,6 @@ The project includes a Streamlit dashboard that allows users to:
 * View results instantly
 * Store records in MySQL
 
-### Run Application
-
-```bash
-streamlit run src/app.py
-```
-
----
-
-## 📸 Application Screenshots
-
-
-### Fake Job Prediction
-
-
-
-### Real Job Prediction
-
-(Add screenshot here)
-
-### Model Performance
-
-(Add evaluation screenshot here)
-
----
-
-## 🚀 Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/fake-job-detector.git
-```
-
-### Move into Project Directory
-
-```bash
-cd fake-job-detector
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Streamlit Application
-
-```bash
-streamlit run src/app.py
-```
-
----
 
 ## 🔮 Future Improvements
 
