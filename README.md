@@ -259,13 +259,10 @@ streamlit run src/app.py
 
 ## 📸 Application Screenshots
 
-### Home Page
-
-(Add screenshot here)
 
 ### Fake Job Prediction
 
-(Add screenshot here)
+
 
 ### Real Job Prediction
 
